@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "security.ignored",
+      "type": "java.lang.String",
+      "description": "Description for security.ignored."
+    },
+    {
+      "name": "security.basic.enabled",
+      "type": "java.lang.String",
+      "description": "Description for security.basic.enabled."
+    }
+  ] }
